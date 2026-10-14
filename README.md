@@ -5,9 +5,9 @@
 # <div font-size="16">
   💻 About Me
   
-My current goal is to land my first role as a Junior Developer
-I am a student at ISU in the FBKI faculty, majoring in Applied Informatics (Software Development).
-My journey into programming has just begun, and I look forward to learning languages ​​such as Python / C++ / C / Html / CSS / Ruby / JavaScript
+- My current goal is to land my first role as a Junior Developer
+- I am a student at ISU in the FBKI faculty, majoring in Applied Informatics (Software Development).
+- My journey into programming has just begun, and I look forward to learning languages ​​such as Python / C++ / C / Html / CSS / Ruby / JavaScript
 
 </div>
 
