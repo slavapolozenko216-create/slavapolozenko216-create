@@ -3,26 +3,33 @@
 <img src="https://i.pinimg.com/originals/5d/0f/63/5d0f6387aa4f4955bca43823f4ffac0d.gif" height="300" width="100%" alt="Winter" />
 
 ###
-💻 About Me
-
-- 🌱 I’m currently learning: Python / С++ / C / GitHub / Html / CSS
-- 🎯 My current goal is to land my first role as a Junior Developer
-- 💬 I enjoy sports, games, and learning programming.
----
-
+<div font-size="16">
+  💻 About Me
+  
+  - 🌱 I’m currently learning: Python / С++ / C / GitHub / Html / CSS
+  - 🎯 My current goal is to land my first role as a Junior Developer
+  - 💬 I enjoy sports, games, and learning programming.
+  ---
+</div>
 ###
 
-🛠️ Tech Stack & Tools
+<div align="center">🛠️ Tech Stack & Tools</div>
 
 <div align="center">
   <h3>Languages</h3>
-  <img src="https://skillicons.dev/icons?i=cpp" height="50" alt="c++ logo"  />
+  <img src="https://skillicons.dev/icons?i=cpp" height="50" />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=py" height="50" alt="python logo"  />
+  
+  <img src="https://skillicons.dev/icons?i=c" height="50" />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=apple" height="50" alt="apple logo"  />
+  
+  <img src="https://skillicons.dev/icons?i=py" height="50" />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=c" height="50" alt="c logo"  />
+  
+  <img src="https://skillicons.dev/icons?i=html" height="50" />
+  <img width="15" />
+  
+  <img src="https://skillicons.dev/icons?i=css" height="50" />
   <img width="15" />
 </div>
 
@@ -30,15 +37,25 @@
 
 <div align="center">
   <h3>Frameworks & Tools</h3>
-  <img src="https://skillicons.dev/icons?i=discord" height="50" alt="discord logo"  />
+  <img src="https://skillicons.dev/icons?i=discord" height="50" />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=github" height="50" alt="github logo"  />
+  
+  <img src="https://skillicons.dev/icons?i=github" height="50" />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=gmail" height="50" alt="gmail logo"  />
+  
+  <img src="https://skillicons.dev/icons?i=gmail" height="50" />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=html" height="50" alt="html logo"  />
+  
+  <img src="https://skillicons.dev/icons?i=apple" height="50" />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=css" height="50" alt="css logo"  />
+
+  <img src="https://skillicons.dev/icons?i=windows" height="50" />
+  <img width="15" />
+  
+  <img src="https://skillicons.dev/icons?i=github" height="50" />
+  <img width="15" />
+
+  <img src="https://skillicons.dev/icons?i=mysql" height="50" />
   <img width="15" />
 </div>
 
@@ -46,13 +63,16 @@
 
 <div align="center">
   <h3> Development Environment </h3>
-  <img src="https://skillicons.dev/icons?i=vscode" height="50" alt="vscode logo"  />
+  <img src="https://skillicons.dev/icons?i=vscode" height="50" />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=notion" height="50" alt="notion logo"  />
+  
+  <img src="https://skillicons.dev/icons?i=notion" height="50" />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=obsidian" height="50" alt="obsidian logo"  />
+  
+  <img src="https://skillicons.dev/icons?i=obsidian" height="50" />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=windows" height="50" alt="windows logo"  />
+  
+  <img src="https://skillicons.dev/icons?i=vscode" height="50" />
   <img width="15" />
 </div>
 
