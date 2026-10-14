@@ -11,7 +11,7 @@
   ---
 </div>
 
-<div align="center"><h2>🛠️ Tech Stack & Tools</h2></div>
+### <div align="center"><h2>🛠️ Tech Stack & Tools</h2></div>
 
 <div align="center">
   <h3>Languages</h3>
