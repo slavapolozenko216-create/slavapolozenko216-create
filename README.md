@@ -1,6 +1,6 @@
 <h1 align="center"> MetraPoliten </h1>
 
-###
+###🛠️ Tech Stack & Tools
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="c++ logo"  />
@@ -41,7 +41,15 @@
   <img width="12" />
 </div>
 
-###
+
+### 🚀 About Me
+
+- 🌱 I’m currently learning **[Что вы сейчас учите, например: React / Python / Data Structures]**
+- 💻 Looking to collaborate on **Open Source projects or entry-level team projects**
+- 🎯 My current goal is to land my first role as a Junior Developer
+
+---
+
 
 <p align="center">
   <picture>
