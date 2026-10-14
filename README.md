@@ -13,7 +13,7 @@
 
 ### <div align="center"><h2>🛠️ Tech Stack & Tools</h2></div>
 
-# <div align="center">
+ <div align="center">
   <h3>Languages</h3>
   <img src="https://skillicons.dev/icons?i=cpp" height="50" />
   <img width="15" />
@@ -32,7 +32,7 @@
 </div>
 
 
-# <div align="center">
+ <div align="center">
   <h3>Frameworks & Tools</h3>
   <img src="https://skillicons.dev/icons?i=discord" height="50" />
   <img width="15" />
@@ -57,7 +57,7 @@
 </div>
 
 
-# <div align="center">
+ <div align="center">
   <h3> Development Environment </h3>
   <img src="https://skillicons.dev/icons?i=vscode" height="50" />
   <img width="15" />
@@ -72,7 +72,7 @@
   <img width="15" />
 </div>
 
-<p align="center">
+### <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Flowseal/Flowseal/refs/heads/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Flowseal/Flowseal/refs/heads/output/github-contribution-grid-snake.svg" />
