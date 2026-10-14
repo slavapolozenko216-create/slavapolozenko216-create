@@ -44,10 +44,9 @@
 
 ### 🚀 About Me
 
-- 🌱 I’m currently learning **[Что вы сейчас учите, например: React / Python / Data Structures]**
-- 💻 Looking to collaborate on **Open Source projects or entry-level team projects**
+- 🌱 I’m currently learning Python / С++ / C / GitHub / Html / CSS
 - 🎯 My current goal is to land my first role as a Junior Developer
-
+- 💬 I enjoy sports, games, and learning programming.
 ---
 
 
