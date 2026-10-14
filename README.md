@@ -37,9 +37,6 @@
   <img src="https://skillicons.dev/icons?i=discord" height="50" />
   <img width="15" />
   
-  <img src="https://skillicons.dev/icons?i=github" height="50" />
-  <img width="15" />
-  
   <img src="https://skillicons.dev/icons?i=gmail" height="50" />
   <img width="15" />
   
