@@ -69,7 +69,7 @@
   <img width="15" />
 </div>
 
-I am a student at ISU in the FBKI faculty, majoring in Applied Informatics (Software Development).
+### I am a student at ISU in the FBKI faculty, majoring in Applied Informatics (Software Development).
 My journey into programming has just begun, and I look forward to learning languages ​​such as Python / C++ / C / Html / CSS / Ruby / JavaScript
 
 ## <p align="center">
