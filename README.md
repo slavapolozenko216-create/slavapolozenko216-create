@@ -1,7 +1,7 @@
 <h1 align="center"> MetraPoliten </h1>
 
 https://i.pinimg.com/originals/a6/c2/a8/a6c2a82ffef59acad942068fa928c5d6.gif
-<img src="[https://skillicons.dev/icons?i=cpp](https://i.pinimg.com/originals/a6/c2/a8/a6c2a82ffef59acad942068fa928c5d6.gif)" />
+<img src="https://i.pinimg.com/originals/a6/c2/a8/a6c2a82ffef59acad942068fa928c5d6.gif" />
 
 ###
 💻 About Me
