@@ -69,6 +69,9 @@
   <img width="15" />
 </div>
 
+I am a student at ISU in the FBKI faculty, majoring in Applied Informatics (Software Development).
+My journey into programming has just begun, and I look forward to learning languages ​​such as Python / C++ / C / Html / CSS / Ruby / JavaScript
+
 ## <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Flowseal/Flowseal/refs/heads/output/github-contribution-grid-snake-dark.svg" />
