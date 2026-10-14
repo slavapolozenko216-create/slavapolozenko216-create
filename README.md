@@ -13,7 +13,7 @@
 
 ### <div align="center"><h2>🛠️ Tech Stack & Tools</h2></div>
 
-<div align="center">
+# <div align="center">
   <h3>Languages</h3>
   <img src="https://skillicons.dev/icons?i=cpp" height="50" />
   <img width="15" />
@@ -32,7 +32,7 @@
 </div>
 
 
-<div align="center">
+# <div align="center">
   <h3>Frameworks & Tools</h3>
   <img src="https://skillicons.dev/icons?i=discord" height="50" />
   <img width="15" />
@@ -57,7 +57,7 @@
 </div>
 
 
-<div align="center">
+# <div align="center">
   <h3> Development Environment </h3>
   <img src="https://skillicons.dev/icons?i=vscode" height="50" />
   <img width="15" />
