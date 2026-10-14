@@ -1,7 +1,7 @@
 <h1 align="center"> MetraPoliten </h1>
 
 <img src="https://i.pinimg.com/originals/a6/c2/a8/a6c2a82ffef59acad942068fa928c5d6.gif" height="200" alt="Winter" />
-<img width="400" />
+<img width="2000" />
 
 ###
 💻 About Me
