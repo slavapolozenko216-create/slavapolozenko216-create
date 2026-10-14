@@ -1,6 +1,14 @@
 <h1 align="center"> MetraPoliten </h1>
 
 ###
+💻 About Me
+
+- 🌱 I’m currently learning: Python / С++ / C / GitHub / Html / CSS
+- 🎯 My current goal is to land my first role as a Junior Developer
+- 💬 I enjoy sports, games, and learning programming.
+---
+
+###
 
 🛠️ Tech Stack & Tools
 
@@ -42,15 +50,6 @@
   <img src="https://skillicons.dev/icons?i=windows" height="40" alt="windows logo"  />
   <img width="12" />
 </div>
-
-
-### 🚀 About Me
-
-- 🌱 I’m currently learning Python / С++ / C / GitHub / Html / CSS
-- 🎯 My current goal is to land my first role as a Junior Developer
-- 💬 I enjoy sports, games, and learning programming.
----
-
 
 <p align="center">
   <picture>
