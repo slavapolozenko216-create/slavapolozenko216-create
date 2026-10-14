@@ -2,12 +2,12 @@
 
 ### <img src="https://i.pinimg.com/originals/5d/0f/63/5d0f6387aa4f4955bca43823f4ffac0d.gif" height="300" width="100%" alt="Winter" />
 
-### <div align="center">💻 About Me</div>
+## <div align="center">💻 About Me</div>
 - My current goal is to land my first role as a Junior Developer
 - I am a student at ISU in the FBKI faculty, majoring in Applied Informatics (Software Development).
 - My journey into programming has just begun, and I look forward to learning languages ​​such as Python / C++ / C / Html / CSS / Ruby / JavaScript
 
-### <div align="center">🛠️ Tech Stack & Tools</div>
+## <div align="center">🛠️ Tech Stack & Tools</div>
 
  <div align="center">
   <h3>Languages</h3>
