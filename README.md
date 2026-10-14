@@ -59,13 +59,13 @@
   <img src="https://skillicons.dev/icons?i=vscode" height="50" />
   <img width="15" />
   
-  <img src="https://skillicons.dev/icons?i=notion" height="50" />
+  <img src="https://skillicons.dev/icons?i=visualstudio" height="50" />
   <img width="15" />
   
   <img src="https://skillicons.dev/icons?i=obsidian" height="50" />
   <img width="15" />
   
-  <img src="https://skillicons.dev/icons?i=vscode" height="50" />
+  <img src="https://skillicons.dev/icons?i=notion" height="50" />
   <img width="15" />
 </div>
 
