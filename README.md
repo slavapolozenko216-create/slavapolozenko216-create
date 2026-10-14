@@ -5,10 +5,10 @@
 # <div font-size="16">
   💻 About Me
   
-  - 🌱 I’m currently learning: Python / С++ / C / GitHub / Html / CSS
-  - 🎯 My current goal is to land my first role as a Junior Developer
-  - 💬 I enjoy sports, games, and learning programming.
-  ---
+My current goal is to land my first role as a Junior Developer
+I am a student at ISU in the FBKI faculty, majoring in Applied Informatics (Software Development).
+My journey into programming has just begun, and I look forward to learning languages ​​such as Python / C++ / C / Html / CSS / Ruby / JavaScript
+
 </div>
 
 ### <div align="center">🛠️ Tech Stack & Tools</div>
@@ -68,9 +68,6 @@
   <img src="https://skillicons.dev/icons?i=notion" height="50" />
   <img width="15" />
 </div>
-
-### I am a student at ISU in the FBKI faculty, majoring in Applied Informatics (Software Development).
-My journey into programming has just begun, and I look forward to learning languages ​​such as Python / C++ / C / Html / CSS / Ruby / JavaScript
 
 ## <p align="center">
   <picture>
