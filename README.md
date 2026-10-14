@@ -14,7 +14,8 @@
 
 🛠️ Tech Stack & Tools
 
-<div align="center"> Languages
+<div align="center">
+  <h3>Languages</h3>
   <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="c++ logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
