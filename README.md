@@ -2,7 +2,6 @@
 
 <img src="https://i.pinimg.com/originals/5d/0f/63/5d0f6387aa4f4955bca43823f4ffac0d.gif" height="300" width="100%" alt="Winter" />
 
-###
 <div font-size="16">
   💻 About Me
   
@@ -13,7 +12,7 @@
 </div>
 ###
 
-<div align="center">🛠️ Tech Stack & Tools</div>
+<div align="center"><h2>🛠️ Tech Stack & Tools</h2></div>
 
 <div align="center">
   <h3>Languages</h3>
