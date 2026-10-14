@@ -16,42 +16,44 @@
 
 <div align="center">
   <h3>Languages</h3>
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="c++ logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=apple" height="40" alt="apple logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
-  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="50" alt="c++ logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=py" height="50" alt="python logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=apple" height="50" alt="apple logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=c" height="50" alt="c logo"  />
+  <img width="15" />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=discord" height="40" alt="discord logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="gmail logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
-  <img width="12" />
+  <h3>Frameworks & Tools</h3>
+  <img src="https://skillicons.dev/icons?i=discord" height="50" alt="discord logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=github" height="50" alt="github logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=gmail" height="50" alt="gmail logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=html" height="50" alt="html logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=css" height="50" alt="css logo"  />
+  <img width="15" />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=notion" height="40" alt="notion logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=obsidian" height="40" alt="obsidian logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=windows" height="40" alt="windows logo"  />
-  <img width="12" />
+  <h3> Development Environment </h3>
+  <img src="https://skillicons.dev/icons?i=vscode" height="50" alt="vscode logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=notion" height="50" alt="notion logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=obsidian" height="50" alt="obsidian logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=windows" height="50" alt="windows logo"  />
+  <img width="15" />
 </div>
 
 <p align="center">
